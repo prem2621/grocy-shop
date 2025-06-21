@@ -38,5 +38,3 @@ This is my very first web development project, focusing on layout, styling, and 
 
 ---
 
-## 📁 Folder Structure
-
